@@ -73,7 +73,7 @@ Output:
 
 ### asciiChartReporter
 
-[src/index.ts:14-43](https://github.com/stagas/benny-ascii-chart-reporter/blob/1b2ca486cc2a51cdea7acca81964c0f005a57230/src/index.ts#L14-L43 'Source code on GitHub')
+[src/index.ts:14-43](https://github.com/stagas/benny-ascii-chart-reporter/blob/725979997110792277e33db2e4f5f5b18d337e17/src/index.ts#L14-L43 'Source code on GitHub')
 
 Create a benny ascii chart reporter.
 
@@ -85,7 +85,7 @@ Returns **CompleteFn** The reporter function that can be passed to `complete()`.
 
 ### summary
 
-[src/index.ts:21-43](https://github.com/stagas/benny-ascii-chart-reporter/blob/1b2ca486cc2a51cdea7acca81964c0f005a57230/src/index.ts#L21-L43 'Source code on GitHub')
+[src/index.ts:21-43](https://github.com/stagas/benny-ascii-chart-reporter/blob/725979997110792277e33db2e4f5f5b18d337e17/src/index.ts#L21-L43 'Source code on GitHub')
 
 The ascii chart reporter.
 
